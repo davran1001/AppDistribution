@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
+        //empty comments
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
